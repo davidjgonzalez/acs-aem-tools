@@ -8,4 +8,5 @@
     <explain-query/>
     <tag-maker/>
     <test-page-generator/>
+    <find-and-replace/>
 </jcr:root>
